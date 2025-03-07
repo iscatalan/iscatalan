@@ -2,7 +2,7 @@
 Hola 👋
 
 En este repositorio comparto proyecto personales que han tenido la finalidad de ayudarme a prácticar las habilidades de programación 
-
+[correo](https://github.com/iscatalan?tab=repositories#:~:text=icatalanloayza98%40gmail.com)
 <!--
 **iscatalan/iscatalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
